@@ -1,0 +1,12 @@
+/home/whoami/Projects/Web/ASP.NET/WDT/rest-api-boilerplate/src/RestAPI.Application/bin/Debug/net6.0/RestAPI.Application.deps.json
+/home/whoami/Projects/Web/ASP.NET/WDT/rest-api-boilerplate/src/RestAPI.Application/bin/Debug/net6.0/RestAPI.Application.dll
+/home/whoami/Projects/Web/ASP.NET/WDT/rest-api-boilerplate/src/RestAPI.Application/bin/Debug/net6.0/RestAPI.Application.pdb
+/home/whoami/Projects/Web/ASP.NET/WDT/rest-api-boilerplate/src/RestAPI.Application/obj/Debug/net6.0/RestAPI.Application.csproj.AssemblyReference.cache
+/home/whoami/Projects/Web/ASP.NET/WDT/rest-api-boilerplate/src/RestAPI.Application/obj/Debug/net6.0/RestAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/whoami/Projects/Web/ASP.NET/WDT/rest-api-boilerplate/src/RestAPI.Application/obj/Debug/net6.0/RestAPI.Application.AssemblyInfoInputs.cache
+/home/whoami/Projects/Web/ASP.NET/WDT/rest-api-boilerplate/src/RestAPI.Application/obj/Debug/net6.0/RestAPI.Application.AssemblyInfo.cs
+/home/whoami/Projects/Web/ASP.NET/WDT/rest-api-boilerplate/src/RestAPI.Application/obj/Debug/net6.0/RestAPI.Application.csproj.CoreCompileInputs.cache
+/home/whoami/Projects/Web/ASP.NET/WDT/rest-api-boilerplate/src/RestAPI.Application/obj/Debug/net6.0/RestAPI.Application.dll
+/home/whoami/Projects/Web/ASP.NET/WDT/rest-api-boilerplate/src/RestAPI.Application/obj/Debug/net6.0/refint/RestAPI.Application.dll
+/home/whoami/Projects/Web/ASP.NET/WDT/rest-api-boilerplate/src/RestAPI.Application/obj/Debug/net6.0/RestAPI.Application.pdb
+/home/whoami/Projects/Web/ASP.NET/WDT/rest-api-boilerplate/src/RestAPI.Application/obj/Debug/net6.0/ref/RestAPI.Application.dll
